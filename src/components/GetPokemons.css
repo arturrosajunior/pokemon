@@ -1,0 +1,6 @@
+small{cursor: pointer;}
+.lista-de-pokemon {
+    max-height: 52vh;
+    overflow-y: scroll;
+    max-width: 70%;
+}
